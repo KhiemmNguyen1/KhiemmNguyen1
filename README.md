@@ -1,3 +1,4 @@
+![MassterHead](https://i.ibb.co/34920Dc/Dark-Neon-Simple-Futuristic-UIUX-Designer-Linked-In-Banner.png)
 <h1 align="center">Hi 👋, I'm KhiemmNguyen</h1>
 <h3 align="center">Fresher QA/QC | Seeking for QA, QC Game Tester | Comprehensive Quality Assurance BA Fresher | Deep understanding of the software writing process | Looking for New Opportunities</h3>
 
