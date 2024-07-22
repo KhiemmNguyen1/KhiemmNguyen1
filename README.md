@@ -2,6 +2,8 @@
 <h3 align="center">Fresher QA/QC | Seeking for QA, QC Game Tester | Comprehensive Quality Assurance BA Fresher | Deep understanding of the software writing process | Looking for New Opportunities</h3>
 
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
+
 - 🔭 I’m currently working on [Zalo Mini App: Bean Apps](https://zalo.me/s/1838228208681717250/)
 
 - 🌱 I’m currently learning **React Native, Software Requirements, Game Testing**
